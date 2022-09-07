@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Olá me chamo Cayo e faço Análise e Desenvolvimento de Sistemas! Sou um desenvolvedor Front-End em formação HTML | CSS | JS</h2>
+<h2> Olá eu sou o Cayo Luan, Desenvolvedor Front-End em formação!</h2>
 </div>
 
 <div align="center">
