@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Olá me chamo Cayo Luane sou um desenvolvedor Front-End em formação!</h2>
+<h2> Olá me chamo Cayo Luan e sou um desenvolvedor Front-End em formação!</h2>
 </div>
 
 <div align="center">
