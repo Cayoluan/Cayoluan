@@ -1,7 +1,7 @@
 ### Oii, sou o Cayo Luan 👋
 
 
-- 🔭 Estou estudado para trabalhar com Front-end 
+- 🔭 Estou estudando para trabalhar com Front-end 
 - 🌱 Atualmente estou praticando HTML, CSS e JavaScript
 - 📫 Meu email para contato é cayoduraes@gmail.com
 
