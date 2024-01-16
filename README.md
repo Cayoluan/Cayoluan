@@ -1,9 +1,9 @@
-### Oii, sou o Cayo Luan 👋
+### Hello World
 
 
-- 🔭 Estou estudando para trabalhar com Desenvolvimento
-- 🌱 Atualmente estou praticando HTML, CSS e JavaScript
-- 📫 Meu email para contato é cayoduraes@gmail.com
+- 👨‍🎓 i'm currently studying analysis and systems development 
+- 💻 I'm currently practicing HTML, CSS and JavaScript but focusing on Node for the backend
+- 🌆 Belo horizonte, Minas gerais
 
 
 <div align="center">
