@@ -1,8 +1,9 @@
-### Hello World!
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;" />
+
+<h1 align="center" style="color: green;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;" />
 </h1>
+
 
 - 👨‍🎓 i'm currently studying analysis and systems development 
 - 💻 I'm currently practicing HTML, CSS and JavaScript but focusing on Node for the backend
