@@ -1,8 +1,9 @@
 
 
-<h1 align="center">
+<h1 style="text-align: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=18F74B&random=false&width=435&lines=Hello+World!:)" />
 </h1>
+
 
 
 - 👨‍🎓 i'm currently studying analysis and systems development 
