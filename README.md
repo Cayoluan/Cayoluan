@@ -7,8 +7,8 @@
 </p>
 
 - 🎓 **Educação:** Graduado em Análise e Desenvolvimento de Sistemas; Cursando **Engenharia de Software**.
-- 🛠️ **Foco Atual:** Arquitetura de Integrações, Microserviços com Node.js e Automação de Workflows complexos.
-- 🚀 **Experiência:** Especialista em conectar ecossistemas de larga escala (ERPs como SAP, TOTVS e Senior) usando n8n e código customizado.
+- 🛠️ **Foco Atual:** Desenvolvimento Backend com Node.js e Arquitetura de Integrações. Atuando na construção de pipelines de dados e automações escaláveis via n8n.
+- 🚀 **Experiência:** Atuando no ciclo completo de software, desde a implantação e parametrização de sistemas até a automação de fluxos e integração de dados entre ERPs (SAP, TOTVS, Senior) e plataformas financeiras via n8n e JavaScript.
 - 📍 **Localização:** Belo Horizonte, MG.
 
 ---
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ 
   <br>
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -29,14 +29,6 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
-
----
-
-### 📊 Estatísticas
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Cayoluan&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cayoluan&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 
 ---
