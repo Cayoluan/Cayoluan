@@ -1,34 +1,48 @@
-
-
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=18F74B&random=false&width=300&height=70&lines=Hello+World!:)" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=18F74B&width=450&height=70&lines=Software+Engineer;Integration+Specialist;Node.js+Developer" />
 </h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Focus-Backend_&_Automations-blueviolet?style=for-the-badge">
+</p>
 
+- 🎓 **Educação:** Graduado em Análise e Desenvolvimento de Sistemas; Cursando **Engenharia de Software**.
+- 🛠️ **Foco Atual:** Arquitetura de Integrações, Microserviços com Node.js e Automação de Workflows complexos.
+- 🚀 **Experiência:** Especialista em conectar ecossistemas de larga escala (ERPs como SAP, TOTVS e Senior) usando n8n e código customizado.
+- 📍 **Localização:** Belo Horizonte, MG.
 
-- 👨‍🎓 i'm currently studying analysis and systems development 
-- 💻 I'm currently practicing HTML, CSS and JavaScript but focusing on Node for the backend
-- 🌆 Belo horizonte, Minas gerais
+---
 
+### 🛠️ Stack & Ferramentas
 
 <div align="center">
-  <a href="https://github.com/Cayoluan">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cayoluan&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cayoluan&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
-  
-  <div align=center style="display: inline_block"><br> 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">  
-  <img align="center" alt="MYSQL" height="30" width="60" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-  ##
-  
-<div align=center> 
-  <a href = "mailto:cayoduraes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cayo-luan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+---
+
+### 📊 Estatísticas
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Cayoluan&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cayoluan&layout=compact&langs_count=7&theme=great-gatsby"/>
+</div>
+
+---
+
+### 📫 Vamos nos conectar?
+<div align="center">
+  <a href="mailto:cayoduraes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/cayo-luan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
