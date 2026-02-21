@@ -9,7 +9,6 @@
 - 🎓 **Educação:** Graduado em Análise e Desenvolvimento de Sistemas; Cursando **Engenharia de Software**.
 - 🛠️ **Foco Atual:** Especialização em **C# e Ecossistema .NET**, mantendo a expertise em Node.js e Arquitetura de Integrações.
 - 🚀 **Experiência:** Atuando no ciclo completo de software, desde a automação de fluxos escaláveis via n8n até a integração de dados entre ERPs robustos (SAP, TOTVS, Senior) utilizando JavaScript e agora expandindo para soluções performáticas em **C#**.
-- 📍 **Localização:** Belo Horizonte, MG.
 
 ---
 
