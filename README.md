@@ -7,7 +7,7 @@
 </p>
 
 - 🎓 **Educação:** Graduado em ADS; Cursando **Engenharia de Software**.
-- 🛠️ **Foco Atual:** Desenvolvimento de interfaces e produtos web com **HTML, CSS, JavaScript e React**, aliado a integrações via **APIs, Webhooks e n8n**.
+- 🛠️ **Foco Atual:** Desenvolvimento de interfaces e produtos web com **React e JavaScript**, aliado a integrações via **APIs, Webhooks e n8n**.
 - 🚀 **Experiência:** Desenvolvimento de páginas e produtos web em produção, infraestrutura web e suporte técnico a times multidisciplinares.
 
 ---
