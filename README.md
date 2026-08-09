@@ -3,7 +3,7 @@
 </h1>
 
 - 🎓 **Formação:** Engenharia de Software e Análise e Desenvolvimento de Sistemas
-- 💼 **Hoje:** Desenvolvedor Full-Stack no **Grupo Fênix** — plataforma interna full-stack e ferramentas usadas por mais de 500 pessoas
+- 💼 **Hoje:** Desenvolvedor Full-Stack 
 - ⚙️ **O que eu curto:** transformar processo manual e repetitivo em software que roda sozinho
 - 🌐 **Além do código:** cuido da infraestrutura que mantém tudo no ar (servidor Linux, Nginx, Cloudflare, DNS e SSL)
 
