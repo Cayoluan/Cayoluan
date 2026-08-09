@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=18F74B&center=true&width=520&height=70&lines=Desenvolvedor+Full-Stack;React+%7C+TypeScript+%7C+Node.js;Do+front+ao+deploy" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=18F74B&center=true&width=520&height=70&lines=Desenvolvedor+Full-Stack;React+%7C+TypeScript+%7C+Node.js" />
 </h1>
 
 - 🎓 **Formação:** Engenharia de Software e Análise e Desenvolvimento de Sistemas
@@ -43,7 +43,7 @@
 ### 📫 Vamos nos conectar?
 
 <div align="center">
-  <a href="https://cayoduraes.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-18F74B?style=for-the-badge&logo=googlechrome&logoColor=black"></a>
-  <a href="https://www.linkedin.com/in/cayo-duraes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:cayoduraes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://cayoduraes.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-238636?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/cayo-duraes/"><img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:cayoduraes@gmail.com"><img src="https://img.shields.io/badge/Gmail-238636?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
