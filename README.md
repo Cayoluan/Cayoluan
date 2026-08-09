@@ -2,10 +2,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=18F74B&center=true&width=520&height=70&lines=Desenvolvedor+Full-Stack;React+%7C+TypeScript+%7C+Node.js;Do+front+ao+deploy" />
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--stack_%C2%B7_Integra%C3%A7%C3%B5es_%C2%B7_Infraestrutura-18F74B?style=for-the-badge&labelColor=1f2328&color=18F74B">
-</p>
-
 - 🎓 **Formação:** Engenharia de Software e Análise e Desenvolvimento de Sistemas
 - 💼 **Hoje:** Desenvolvedor Full-Stack no **Grupo Fênix** — plataforma interna full-stack e ferramentas usadas por mais de 500 pessoas
 - ⚙️ **O que eu curto:** transformar processo manual e repetitivo em software que roda sozinho
