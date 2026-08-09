@@ -43,7 +43,7 @@
 ### 📫 Vamos nos conectar?
 
 <div align="center">
-  <a href="https://cayoduraes.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-238636?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/cayo-duraes/"><img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:cayoduraes@gmail.com"><img src="https://img.shields.io/badge/Gmail-238636?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://cayoduraes.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=18F74B"></a>
+  <a href="https://www.linkedin.com/in/cayo-duraes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:cayoduraes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
