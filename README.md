@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Foco-Full--stack_%C2%B7_Integra%C3%A7%C3%B5es_%C2%B7_Infraestrutura-18F74B?style=for-the-badge&labelColor=1f2328&color=18F74B">
+  <img src="https://img.shields.io/badge/Full--stack_%C2%B7_Integra%C3%A7%C3%B5es_%C2%B7_Infraestrutura-18F74B?style=for-the-badge&labelColor=1f2328&color=18F74B">
 </p>
 
 - 🎓 **Formação:** Engenharia de Software e Análise e Desenvolvimento de Sistemas
